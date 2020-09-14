@@ -5,6 +5,7 @@ Control a Drone with leap motion controller to detect gesture and control a dron
 - 1.Leap motion Ros (https://github.com/warp1337/rosleapmotion)
 - 2.ROS Python package (if not installed, type command: pip3 install rospy )
 - 3.Gazebo for simulation 
+- 4.PX4 Firmware for ros simulation (https://github.com/PX4/Firmware)
  
 ## Hardware Used:
   - Pixhawk 4 flight controller
